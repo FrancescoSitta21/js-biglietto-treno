@@ -1,0 +1,32 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #9d0208;
+}
+
+/*Regole iniziali*/
+body {
+  color: #4444;
+  font-size: 16px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: white;
+}
+
+h1 {
+  display: inline-block;
+}
+
+#prezzo {
+  margin: 0 20px;
+  font-size: 3em;
+  color: #3333;
+  font-weight: 800;
+}
